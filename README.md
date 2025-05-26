@@ -17,4 +17,4 @@ Why it's a good idea? Read [here](https://ansorre.github.io/sponsor/).
 
 ## Quick links
 
- * [Github project](https://github.com/ansorre/As-Libs-Core)
+ * [Github project](https://github.com/ansorre/as-libs.core)
